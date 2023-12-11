@@ -1,3 +1,4 @@
 Resolusi Projek Undangan
 - Konsisten membuat berbagai model surat undangan online
 - Buat architecture company web profile
+- Bercita-cita untuk membuat web khusus badan pemerintahan kota blora/rembang
